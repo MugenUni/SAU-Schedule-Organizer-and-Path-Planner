@@ -1,0 +1,35 @@
+* For the center graph I made a mistake and put path verticies where there should be
+  destination vertices.  These are the corrections *
+
+37 = OVR 1
+43 = OVR 2
+44 = OVR 3
+66 = HAT
+47 = WIL 1
+50 = WIL 2
+52 = WIL 3
+61 = CRO 1
+62 = CRO 2
+64 = CRO 3
+54 = HAH 1
+56 = HAH 2
+46 = HAH 3
+68 = NEL 1
+69 = NEL 2
+77 = NEL 3
+70 = NEL 4
+80 = BAB 1
+82 = BAB 2
+106 = BCT 1
+107 = BCT 2
+109 = BCT 3
+95 = BCT 4
+100 = REY 1
+102 = REY 2
+98 = REY 3
+111 = REY 4
+104 = MAG
+118 = TAB
+121 = TAL
+129 = GRH
+126 = HOH 2
