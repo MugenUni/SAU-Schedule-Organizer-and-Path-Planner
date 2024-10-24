@@ -1,6 +1,24 @@
 # SAU-Schedule-Organizer-and-Path-Planner
 This project was developed for the Fall 2023 Data Structures and Algorithms course at Southern Arkansas University (SAU) as a group assignment. The main purpose of the project is to help students organize their class schedules and navigate the SAU campus efficiently by finding the shortest paths between buildings.
 
+## Table of Contents
+ * [Requirements](#requirements)
+ * [Features](#features)
+ * [Files](#files)
+ * [How It Works](#how-it-works)
+ * [My Contribution](#my-contribution)
+ * [Technologies Used](#technologies-used)
+ * [Possible Future Enhancements](#possible-future-enhancements)
+ * [Getting Started](#getting-started)
+## Requirements
+To run this project, you will need the following:
+
+* **Python 3.6 (or higher)**: Ensure that Python 3.6 or higher is installed on your system. You can download it from python.org.
+* **Libraries**: The program uses standard Python libraries such as:
+  * `re` (for regular expressions)
+  * `heapq` (for priority queue implementation in Dijkstra’s algorithm)
+You can install any missing libraries using `pip`.
+
 ## Features
 * **Class Schedule Organizer**: The program allows users to input their weekly class schedule and organizes it chronologically for each day of the week.
 
